@@ -1,7 +1,7 @@
 # HanyuAce: Your Ultimate HSK Exam Prep Companion 🚀
 
-[![HSK Practice](https://qhipgkfwzrhfjcxdtqyt.supabase.co/storage/v1/object/public/hanyuace/2.png)
-[![HSK Flashcard](https://qhipgkfwzrhfjcxdtqyt.supabase.co/storage/v1/object/public/hanyuace/3.png)
+[![HSK Practice](https://qhipgkfwzrhfjcxdtqyt.supabase.co/storage/v1/object/public/hanyuace/2.png)]
+[![HSK Flashcard](https://qhipgkfwzrhfjcxdtqyt.supabase.co/storage/v1/object/public/hanyuace/3.png)]
 
 Welcome to HanyuAce, your go-to platform for crushing the HSK exam! 💪
 
